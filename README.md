@@ -1,4 +1,4 @@
-# ![image](https://cdn.discordapp.com/attachments/835887124308819970/927877535356829696/unknown.png)
+# ![image](https://cdn.discordapp.com/attachments/838700484185292820/927961936883236864/unknown.png)
 
 # Getting Started
 
