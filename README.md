@@ -13,7 +13,9 @@ You can also request custom hand-built bots at commission@platservices.xyz.
 
 # Our Bots
 
-[Visit this link and we will show you our other projects.](https://github.com/PS-XYZ-Developement/Directory/blob/main/Tutorial.md)
+[**Visit this link and we will show you our other projects.**](https://github.com/PS-XYZ-Developement/Directory/blob/main/Tutorial.md)
+
+#
 
 Thanks for your intrest,
 
