@@ -13,7 +13,7 @@ You can also request custom hand-built bots and advertisement websites at commis
 
 # Our Bots
 
-[**Visit this link and we will show you our other projects.**](https://github.com/PS-XYZ-Developement/Directory/blob/main/Tutorial.md)
+[**Visit this link and we will show you our other projects.**](https://github.com/PS-XYZ-Developement/Directory/blob/main/Projects.md)
 
 #
 
