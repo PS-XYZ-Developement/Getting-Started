@@ -8,8 +8,6 @@ Hello and thanks for visiting our website!
 
 There are many places you can head to learn how to code at our other repository [here](https://github.com/PS-XYZ-Developement/Directory).
 
-You can also request custom hand-built bots and advertisement websites at commission@platservices.xyz.
-
 
 # Our Bots
 
