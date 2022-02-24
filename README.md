@@ -1,4 +1,4 @@
-# ![image](https://cdn.discordapp.com/attachments/838700484185292820/927961936883236864/unknown.png)
+# ![image](https://media.discordapp.net/attachments/811279531641012264/944942531966275634/Platservices_Flat_Banner.png?width=1194&height=671)
 
 # Getting Started
 
